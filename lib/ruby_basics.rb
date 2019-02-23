@@ -24,4 +24,5 @@ end
 
 def pizza_party(food = "cheese")
   puts food
+  return food
 end
